@@ -1,0 +1,101 @@
+	body{
+	margin:0;
+	padding:0;
+	font-family: sans-serif;
+}
+.navbar	{
+	width:100%;
+	height:9%;
+	padding:0;
+	margin:0;
+	background-color: #D3D3D3;
+	position: relative;
+}
+
+.navbar	ul{
+	position: relative;
+	list-style-type: none;
+	width: 100%;
+	padding:0;
+	height: 100%;
+	margin: 0 auto;
+}
+.navbar ul li{
+	display: inline-block;
+	padding:20px;
+} 
+.navbar #logo {
+	padding-right: 20px;
+}
+#logo:hover a{
+	background-color: none;
+	color: blue;
+}
+#courses:hover {
+	background-color: teal;
+	z-index:100;
+}
+#courses:hover a{color:white;}
+#login:hover{
+	background-color: teal;
+}
+#login:hover a{color:white;}
+#sign-up:hover {
+	background-color: teal;
+}
+#sign-up:hover a{color:white;}
+.navbar ul li a{
+	text-decoration: none;
+	color: black;
+}
+#search-bar{
+	height:57%;
+	padding:12.5px 20px;
+}
+#search-bar input[type=text] {
+ 	padding: 9px 0;
+ 	text-align: center;
+ 	border:none;
+ 	border-radius: 12px 0 0 12px;
+}
+
+@media only screen and (max-width: 684px) {
+    #logo{display: none;}
+}
+.srch-btn{
+	background-color: DodgerBlue; 
+    border: none;
+    color: white;
+    padding: 10px 16px;
+    font-size: 14px; 
+    cursor: pointer; 
+    border-radius: 0 8px 8px 0; 
+}
+@media only screen and (max-width: 800px){
+	#login{
+		margin-left: 0;
+	}
+}
+.dropdown-content	{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    color: blue;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+#courses:hover .dropdown-content{
+	display: block;
+}
+.dropdown-content a:hover { background-color: grey}
+
+	#list_course:hover{
+		background-color: black;
+	}
