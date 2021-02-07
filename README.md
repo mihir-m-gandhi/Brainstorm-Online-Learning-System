@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img height=150px src="./logo.png" alt="Brainstorm-logo"></a>
+ <img height=100px src="./logo.png" alt="Brainstorm-logo"></a>
 </p>
 
 <h1 align="center">Brainstorm - Online Learning System</h1>
