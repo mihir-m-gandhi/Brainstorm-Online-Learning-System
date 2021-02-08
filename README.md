@@ -16,7 +16,7 @@
 -----------------------------------------
 ### Inspiration
 
-* This system was developed with the intention of building an online resource pool to reduce the difficulty faced by students to amass educational resources like videos from popular channels on YouTube and ebooks from the web for various subjects while studying.
+* This website was developed with the intention of building an online resource pool to reduce the difficulty faced by students to amass educational resources like videos from popular channels on YouTube and ebooks from the web for various subjects while studying.
 
 * It will help students to enhance their knowledge and skills in their topic of interest anywhere and anytime, while eliminating distractions such as advertisements or suggestions to other videos as seen on other platforms, so that the students stay focussed.
 
