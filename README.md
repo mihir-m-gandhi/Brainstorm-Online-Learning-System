@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4>Brainstorm is an online resource pool for students to study from comprising of videos from popular YouTube channels and ebooks from web for various subjects to help them study effectively without any distractions.</h4>
+<h4>Brainstorm is an online resource pool for students to study from. It comprises of videos from popular YouTube channels and ebooks from web for various subjects to help them study effectively without any distractions.</h4>
 
 </div>
 
