@@ -20,22 +20,6 @@
 * It will help students to enhance their knowledge and skills in their topic of interest anywhere and anytime, while eliminating distractions such as advertisements or suggestions to other videos as seen on other platforms, so that the students stay focussed.
 
 ------------------------------------------
-### Features
-
-- Teachers can upload their videos as well as documents such as ebooks, assignments, cheat-sheets, etc. using the web-portal.
-- The administrator can also upload the videos from various sources. The administrator also keeps the students updated with the current news related to technological advancements.
-
-------------------------------------------
-### Demo
-<p align="center">
-  <img src="./Demo.gif">
-</p>
-
-------------------------------------------
-### Installation
-
-
-------------------------------------------
 ### Contributors
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
